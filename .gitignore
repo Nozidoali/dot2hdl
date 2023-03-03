@@ -2,6 +2,6 @@ bin/
 ./build/*.*
 *.swp
 src/*.o
-obj
+obj/*/*.o
 examples/*.vhd
 examples/*.tcl
