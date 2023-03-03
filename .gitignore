@@ -1,0 +1,7 @@
+bin/
+./build/*.*
+*.swp
+src/*.o
+obj
+examples/*.vhd
+examples/*.tcl
